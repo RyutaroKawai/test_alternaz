@@ -113,7 +113,7 @@ h1 {
 }
 
 #hero {
-    background-image: url(images/hero_building1.jpeg);
+    background-image: url(../images/hero_building1.jpeg);
     min-height: 100vh;
 }
 #hero .page-title {

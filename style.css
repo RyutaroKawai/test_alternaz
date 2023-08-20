@@ -1,0 +1,21 @@
+@charset "UTF-8";
+body {
+    background-color: #fefefe;
+}
+h1{
+    font-family: 'Montserrat', sans-serif;
+    color: #061e5b;
+    font-weight: 900;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    color: #061e5b;
+    font-weight: 1000;
+}
+p {
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 20px;
+    text-align: justify;
+    color: rgba(0, 0, 0, .4);
+    /* 半透明指定してみた */
+}

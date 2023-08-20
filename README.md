@@ -1,2 +1,2 @@
 # test_alternaz
-Webデザイン練習用
+Webデザイン練習用_230820
